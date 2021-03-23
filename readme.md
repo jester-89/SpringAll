@@ -106,3 +106,4 @@
 8. [深入理解Spring循环依赖](https://mrbird.cc/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Spring%E5%BE%AA%E7%8E%AF%E4%BE%9D%E8%B5%96.html)
 
 持续更新中...
+commit check
